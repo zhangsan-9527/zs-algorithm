@@ -16,6 +16,8 @@ https://www.geekxh.com/
 
     max_profit: 题目: 股票最优解 动态规划问题
 
+    rotating_array: 题目: 旋转数组
+
 ## 链表系列
 
 
