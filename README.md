@@ -18,6 +18,12 @@ https://www.geekxh.com/
 
     rotating_array: 题目: 旋转数组
 
+    remove_lel: 题目: 移除元素
+
+    plus_one: 题目: 加一
+
+    two_sum: 题目: 两数之和
+
 ## 链表系列
 
 
