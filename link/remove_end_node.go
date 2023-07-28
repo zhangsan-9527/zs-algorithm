@@ -5,6 +5,7 @@ type ListNode struct {
 	Next *ListNode
 }
 
+// 修改测试
 func removeNthFromEnd(head *ListNode, n int) *ListNode {
 	result := &ListNode{}
 	result.Next = head
